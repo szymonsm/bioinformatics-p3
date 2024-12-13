@@ -1,0 +1,40 @@
+<phyloxml xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.phyloxml.org" xsi:schemaLocation="http://www.phyloxml.org http://www.phyloxml.org/1.10/phyloxml.xsd">
+  <phylogeny rooted="true">
+    <clade>
+      <name>Inner4</name>
+      <branch_length>0</branch_length>
+      <clade>
+        <name>Inner1</name>
+        <branch_length>0.003616781874057718</branch_length>
+        <clade>
+          <name>insulin-papio_anubis</name>
+          <branch_length>0.0</branch_length>
+        </clade>
+        <clade>
+          <name>insulin-nomascus_leucogenys</name>
+          <branch_length>0.0</branch_length>
+        </clade>
+      </clade>
+      <clade>
+        <name>Inner3</name>
+        <branch_length>0.0009140141030317271</branch_length>
+        <clade>
+          <name>insulin-pan_paniscus</name>
+          <branch_length>0.002702767771025991</branch_length>
+        </clade>
+        <clade>
+          <name>Inner2</name>
+          <branch_length>0.0009551007126451315</branch_length>
+          <clade>
+            <name>insulin-macaca_fascicularis</name>
+            <branch_length>0.0017476670583808594</branch_length>
+          </clade>
+          <clade>
+            <name>insulin-chlorocebus_sabaeus</name>
+            <branch_length>0.0017476670583808594</branch_length>
+          </clade>
+        </clade>
+      </clade>
+    </clade>
+  </phylogeny>
+</phyloxml>
